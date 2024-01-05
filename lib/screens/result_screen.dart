@@ -3,7 +3,6 @@ import 'package:bmi_calculator/widgets/calculate_button.dart';
 import 'package:bmi_calculator/widgets/reusable_card.dart';
 import 'package:flutter/material.dart';
 
-import '../models/calculator_brain.dart';
 
 class ResultScreen extends StatefulWidget {
   final String bmi;
