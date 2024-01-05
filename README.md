@@ -3,5 +3,5 @@
 
 # BMI Calculator 💪
 
-<img src="assets/home_screen.jpg" alt="Alt text" title="Your Title Here" width="360" height="639" />
-<img src="assets/result_screen.jpg" alt="Alt text" title="Your Title Here" width="360" height="639" />
+<img src="assets/home_screen.jpg" alt="Alt text" title="Your Title Here" width="1080" height="2340" />
+<img src="assets/result_screen.jpg" alt="Alt text" title="Your Title Here" width="1080" height="2340" />
